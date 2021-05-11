@@ -1,0 +1,21 @@
+baseURL: https://rw.ch/
+title: Balade Robert Walser
+
+canonifyURLs: true
+publishDir: docs
+
+defaultContentLanguage: fr
+defaultContentLanguageInSubdir: true
+
+disableKinds:
+  - taxonomy
+  - term
+  - RSS
+  - sitemap
+  - robotsTXT
+  - 404
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
