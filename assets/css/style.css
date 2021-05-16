@@ -27,7 +27,7 @@
 html {
     background: #FFF;
     color: var(--text-primary-color);
-    font-family: Roboto, sans-serif;
+    font-family: Georgia, serif;
     font-size: var(--main-font-size);
     line-height: 1.2;
     overflow-y: scroll;
