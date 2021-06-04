@@ -13,3 +13,8 @@ einzelne Textpassagen:
 Zum End der Welt, auf die
 St. Petersinsel, zum Bözingen-
 berg und um den See.
+
+[Télécharger la carte](/pdf/karte-de.pdf) (pdf)
+
+![Karte auf Deutsch](/img/karte-de.jpg)
+

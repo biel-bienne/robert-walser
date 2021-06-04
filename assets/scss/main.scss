@@ -27,6 +27,11 @@ VERSION:	0.0.1
 
 /* Hacks pour inauguration */
 
+a {
+    color: $main-primary-color;
+}
+
+
 header {
     display: flex;
     flex-direction: row;
@@ -38,14 +43,11 @@ header a {
     text-decoration: none;
 }
 
+
 audio {
     width: 100%;
 }
 
 .tabs-selector {
     margin-top: 1em;
-}
-
-.content {
-    color: #8f0751
 }

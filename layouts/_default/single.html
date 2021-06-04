@@ -4,40 +4,17 @@
     <img src="{{ . }}" >
 {{ end }}
 
-{{ $current := .}}
-
-{{ with .Parent }}
-<div class="tabs-selector">
-    <ul class="tabs">
-        {{ if ne $current . }}
-        <li class="tabs-item {{ if eq $current . }}active{{ end }}">
-            <a href="{{ .Permalink }}">
-                <div class="tabs-item-text">
-                    {{ .Title }}
-                </div>
-            </a>
-        </li>
-        {{ end }}
-        {{ range .Pages }}
-        {{ if ne $current . }}
-            <li class="tabs-item {{ if eq $current . }}active{{ end }}">
-                <a href="{{ .Permalink }}">
-                    <div class="tabs-item-text">
-                       {{ .Title }}
-                    </div>
-                </a>
-            </li>
-        {{ end }}
-        {{ end }}
-    </ul>
-</div>
-{{ end }}
-
 <div class="title">
     <h1 class="h1">
         {{ .Title }}
     </h1>
 </div>
+
+{{ with .Params.audio }}
+<audio controls src="{{ . }}">
+    Votre navigateur ne lit pas ce type de fichier.
+</audio>
+{{ end }}
 
 <div class="content">
     {{ .Content }}
