@@ -1,4 +1,4 @@
-baseURL: https://biel-bienne.github.io/robert-walser/
+baseURL: https://nicolasfriedli.ch/rw/
 
 markup:
   minifyOutput: true
