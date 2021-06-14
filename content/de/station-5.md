@@ -2,6 +2,7 @@
 title: "5. Heimkehr"
 banner: /img/5.jpg
 audio: /audio/de/5.mp3
+address: Unterer Quai 45, Früheres Hotel Blaues Kreuz
 ---
 
 Aus: *Kleine Dichtungen  

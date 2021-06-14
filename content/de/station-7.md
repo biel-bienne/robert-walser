@@ -2,12 +2,13 @@
 title: "7. Sonntags"
 banner: /img/7.jpg
 audio: /audio/de/7.mp3
+address: Seevorstadt, Pavillon FelsEck
 ---
 
 Aus: *Kleine Dichtungen  
 Der Felsen*, gelesen von Rolf Hermann
 
-Sommerabend war’s. Die Luft war mild. Ein lindes, lei-
+Sommerabend war's. Die Luft war mild. Ein lindes, lei-
 ses Lüftchen wehte über den Felsen, auf welchem der weisse
 Pavillon steht. Er gleicht einem kleinen griechischen Tempel,
 und man kann ihn schon aus weiter Ferne sehen, wie er so

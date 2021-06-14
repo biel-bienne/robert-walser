@@ -2,6 +2,7 @@
 title: "4. Brotlos"
 banner: /img/4.jpg
 audio: /audio/de/4.mp3
+address: Schüsspromenade 26, Museum Neuhaus
 ---
 
 Aus: *Träumen – Prosa aus der Bieler Zeit Dichter*, gelesen von Rolf Hermann

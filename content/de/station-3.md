@@ -2,6 +2,7 @@
 title: "3. Held"
 banner: /img/3.jpg
 audio: /audio/de/3.mp3
+address: Burggasse 19, Stadttheater
 ---
 
 Aus: *Geschichten Wenzel*, gelesen von Rolf Hermann

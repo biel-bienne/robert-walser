@@ -2,6 +2,7 @@
 title: "6. Herzklopfen"
 banner: /img/6.jpg
 audio: /audio/de/6.mp3
+address: Unterer Quai, Park Elfenau
 ---
 
 Aus: *Kleine Dichtungen  

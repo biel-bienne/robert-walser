@@ -2,6 +2,7 @@
 title: "1. Kinderstube"
 banner: /img/1.jpg
 audio: /audio/de/1.mp3
+address: Nidaugasse 36, Früheres Wohnhaus
 ---
 
 Aus: *Geschwister Tanner*, gelesen von Isabelle Freymond

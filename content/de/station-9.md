@@ -2,6 +2,7 @@
 title: "9. Abschied"
 banner: /img/9.jpg
 audio: /audio/de/9.mp3
+address: Bahnhof, Robert-Walser-Platz
 ---
 
 Aus: *Träumen – Prosa aus der Bieler Zeit  

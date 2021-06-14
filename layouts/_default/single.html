@@ -10,6 +10,10 @@
     </h1>
 </div>
 
+{{ with .Params.address }}
+    <div id="address">{{ .  | markdownify }}</div>
+{{ end }}
+
 {{ with .Params.audio }}
 <audio controls src="{{ . }}">
     Votre navigateur ne lit pas ce type de fichier.

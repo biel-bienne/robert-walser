@@ -2,6 +2,7 @@
 title: "8. Fernweh"
 banner: /img/8.jpg
 audio: /audio/de/8.mp3
+address: Strandboden, See
 ---
 
 Aus: *Träumen – Prosa aus der Bieler Zeit  
