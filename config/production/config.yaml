@@ -1,4 +1,4 @@
-baseURL: https://nicolasfriedli.ch/rw/
+baseURL: https://nicolasfriedli.ch/rw/presentation/
 
 markup:
   minifyOutput: true
