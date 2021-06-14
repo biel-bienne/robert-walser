@@ -5,10 +5,12 @@
 {{ end }}
 
 <div class="title">
-    <h1 class="h1">
+    <h1 class="h2">
         {{ .Title }}
     </h1>
 </div>
+
+<div class="content">
 
 {{ with .Params.audio }}
 <audio controls src="{{ . }}">
@@ -16,7 +18,7 @@
 </audio>
 {{ end }}
 
-<div class="content">
+
     {{ .Content }}
 </div>
 
