@@ -1,4 +1,7 @@
 baseURL: https://biel-bienne.github.io/robert-walser/
 
-markup:
+minify:
   minifyOutput: true
+  tdewolff:
+    html:
+      keepQuotes: true
