@@ -1,7 +1,13 @@
 {{ define "main" }}
 
 {{ if .Params.banner }}
-    <img class="banner" src="{{ .Params.banner }}" loading="lazy" width="800" height="800" alt="{{ .Title }}" >
+    <picture>
+        {{ $avif := replace .Params.banner ".jpg" ".avif" }}
+        {{ $webp := replace .Params.banner ".jpg" ".webp" }}
+        <source srcset="{{ $avif }}" type="image/avif" />
+        <source srcset="{{ $webp }}" type="image/webp" />
+        <img class="banner" src="{{ .Params.banner }}" loading="lazy" decoding="async" width="800" height="800" alt="{{ .Title }}" >
+    </picture>
 {{ end }}
 
 <div class="next-previous">
