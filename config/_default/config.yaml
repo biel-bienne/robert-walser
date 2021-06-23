@@ -7,6 +7,8 @@ publishDir: docs
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
 
+cleandestinationdir: true
+
 disableKinds:
   - taxonomy
   - term
