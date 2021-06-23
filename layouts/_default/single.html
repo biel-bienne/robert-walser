@@ -1,7 +1,7 @@
 {{ define "main" }}
 
-{{ with .Params.banner }}
-    <img src="{{ . }}" >
+{{ if .Params.banner }}
+    <img class="banner" src="{{ .Params.banner }}" loading="lazy" width="800" height="800" alt="{{ .Title }}" >
 {{ end }}
 
 <div class="next-previous">
