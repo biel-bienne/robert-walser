@@ -25,8 +25,7 @@ belle image et de s'y fondre. [...] Tout était si vaste, si calme, si
 chaud. Comme timide, le vent léger soufflait d'un vague lointain.
 [...] L'obscurité qui gagnait peu à peu, tandis que la clarté du
 jour se perdait dans un or sombre, était d'une beauté infinie,
-extraordinaire. [...] Un bruit de voix et de chants, d'où jaillis-
-saient, chauds et magiques, les sons d'une petite harpe, montait
+extraordinaire. [...] Un bruit de voix et de chants, d'où jaillissaient, chauds et magiques, les sons d'une petite harpe, montait
 du lac vers le rocher, duquel on pouvait voir, en bas, les nacelles
 et les barques glisser sur l'eau délicate. Sur un promontoire
 qui formait un audacieux et gracieux lieu de plaisirs, un jeune

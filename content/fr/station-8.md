@@ -8,8 +8,7 @@ address: Prés-de-la-Rive, lac
 Extrait de *Le lac*, lu par Pascale Güdel.
 
 Un soir, après le repas, j'allai encore en hâte au bord du
-lac, drapé de je ne sais quelle mélancolie pluvieuse et som-
-bre. Je m'assis sur un banc sous les branches dégagées d'un
+lac, drapé de je ne sais quelle mélancolie pluvieuse et sombre. Je m'assis sur un banc sous les branches dégagées d'un
 saule et ainsi, m'abandonnant à des pensées vagues, je voulus
 m'imaginer que je n'étais nulle part, une philosophie qui me
 procura un bien-être étrange et délicieux. L'image de la tristesse

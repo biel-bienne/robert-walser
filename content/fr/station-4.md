@@ -10,10 +10,8 @@ Extrait de *Poètes*, lu par Pascale Güdel.
 A la question: comment les auteurs de brouillons, de
 nouvelles et de romans se présentent-ils généralement? On
 peut, on doit même répondre: de manière plutôt négligée et
-misérable. [...] Si depuis peu, on demande en passant com-
-ment et où, c'est-à-dire dans quel genre de logis, habitent et
-séjournent ces messieurs les écrivains, la réponse est très sim-
-ple. Il est établi qu'ils se plaisent surtout dans des mansardes
+misérable. [...] Si depuis peu, on demande en passant comment et où, c'est-à-dire dans quel genre de logis, habitent et
+séjournent ces messieurs les écrivains, la réponse est très simple. Il est établi qu'ils se plaisent surtout dans des mansardes
 pourvues d'une très belle vue, car c'est de là qu'ils jouissent
 du coup d'œil le plus étendu et le plus libre sur le monde. [...]
 D'expérience, je peux dire que les poètes, qu'ils soient lyriques,

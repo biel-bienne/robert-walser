@@ -9,14 +9,12 @@ Aus: *Kleine Dichtungen
 Das Veilchen*, gelesen von Isabelle Freymond
 
 Es war ein dunkler, warmer Märzabend, als ich durch das
-reizende, gartenreiche Villenviertel ging. Vielerlei Menschen-
-augen hatten mich schon gestreift. Es war mir, als schauten
+reizende, gartenreiche Villenviertel ging. Vielerlei Menschenaugen hatten mich schon gestreift. Es war mir, als schauten
 die Augen mich tiefer und ernster an als sonst, und auch ich
 schaute den vorübergehenden Menschen ernster und länger in
 die Augen. [ ... ] Es duftete, und ich wusste nicht recht nach was.
 Es schwebte ein stilles, angenehmes Fragen durch die süsse,
-dunkle, weiche Luft. Ich ging so, und indem ich ging, schmei-
-chelte sich ein zartes unbestimmtes Glücksgefühl in mein Herz
+dunkle, weiche Luft. Ich ging so, und indem ich ging, schmeichelte sich ein zartes unbestimmtes Glücksgefühl in mein Herz
 hinein. Mir war zumute, als gehe ich durch einen herrlichen,
 lieben und uralten Park, da kam eine schöne, junge, zarte Frau
 auf mich zu, violett gekleidet. Anmutig war ihr Gang und edel
