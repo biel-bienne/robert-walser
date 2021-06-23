@@ -1,8 +1,6 @@
 {{ define "main" }}
 
-{{ with .Params.banner }}
-    <img src="{{ . }}" >
-{{ end }}
+
 
 <div class="title">
     <h1 class="h1">
@@ -10,15 +8,20 @@
     </h1>
 </div>
 
+{{ with .Params.banner }}
+    <img src="{{ . }}" >
+{{ end }}
+
 <div class="content">
+
+    <ul>
+        {{ range .Pages }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
 
     {{ .Content }}
 
-    <ul>
-    {{ range .Pages }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{ end }}
-    </ul>
 </div>
 
 {{ end }}

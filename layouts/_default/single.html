@@ -4,6 +4,20 @@
     <img src="{{ . }}" >
 {{ end }}
 
+<div class="next-previous">
+    <div class="next-post">
+        {{ if .NextPage }}
+        <a class="link-reverse" href="{{ .NextPage.Permalink }}">« {{ .NextPage.Title }}</a>
+        {{ end }}
+    </div>
+
+    <div class="previous-post">
+        {{ if .PrevPage }}
+        <a class="btn" class="link-reverse" href="{{ .PrevPage.Permalink }}">{{ .PrevPage.Title }} »</a>
+        {{ end }}
+    </div>
+</div>
+
 <div class="title">
     <h1 class="h1">
         {{ .Title }}
@@ -14,6 +28,7 @@
     <div id="address">{{ .  | markdownify }}</div>
 {{ end }}
 
+
 {{ with .Params.audio }}
 <audio controls src="{{ . }}">
     Votre navigateur ne lit pas ce type de fichier.
@@ -23,11 +38,5 @@
 <div class="content">
     {{ .Content }}
 </div>
-
-{{ with .Params.next }}
-<div class="next">
-    <a href="{{ . }}">Suite</a>
-</div>
-{{ end }}
 
 {{ end }}
