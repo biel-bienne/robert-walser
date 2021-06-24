@@ -1,5 +1,7 @@
 baseURL: https://biel-bienne.github.io/robert-walser/
 
+googleAnalytics: UA-39310152-2
+
 minify:
   minifyOutput: true
   tdewolff:
