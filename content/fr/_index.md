@@ -7,7 +7,7 @@ La promenade littéraire consacrée à Robert Walser permet de découvrir Bienne
 
 Le parcours, long de 5 km, peut être suivi grâce à une carte disponible en ligne sur les sites de la Ville de Bienne, de l'Office du Tourisme et du Nouveau Musée Bienne.
 
-Le projet de digitalisation de la promenade a été réalisé par la ville de Bienne avec le soutien de la Fondation Robert Walser et du NMB - Nouveau Musée Bienne. Le projet original de promenade littéraires «Bienne vue par Robert Walser» ainsi que la carte l'accompagnant est paru en 2006 d'après l'idée et le concept de Christine Schranz à l'occasion du cinquantième anniversaire de la mort de l'écrivain.
+Le projet de digitalisation de la promenade a été réalisé par la Ville de Bienne avec le soutien de la Fondation Robert Walser et du NMB - Nouveau Musée Bienne. Le projet original de promenade littéraires «Bienne vue par Robert Walser» ainsi que la carte l'accompagnant est paru en 2006 d'après l'idée et le concept de Christine Schranz à l'occasion du cinquantième anniversaire de la mort de l'écrivain.
 
 Quatre artistes biennoises et biennois ont prêté leur voix pour lire ces textes: les écrivains Rolf Hermann et Antoine Joly ainsi que les actrices Pascale Güdel et Isabelle Freymond.
 
